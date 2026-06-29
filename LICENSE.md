@@ -1,4 +1,4 @@
-# 
+# Native Expensify plugins for Mac OS | Instant Expensify plugins for PC Windows. Featuring tax planning and multi-currency support — optimized for maximum performance on every platform.
 
 
 
